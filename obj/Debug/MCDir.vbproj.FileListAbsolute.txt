@@ -1,0 +1,11 @@
+c:\users\sonodop-management\documents\visual studio 2013\Projects\MCDir\MCDir\bin\Debug\MCDir.exe.config
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\bin\Debug\MCDir.exe
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\bin\Debug\MCDir.pdb
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\bin\Debug\MCDir.xml
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.vbprojResolveAssemblyReference.cache
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.Form1.resources
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.Resources.resources
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.vbproj.GenerateResource.Cache
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.exe
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.xml
+C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.pdb
