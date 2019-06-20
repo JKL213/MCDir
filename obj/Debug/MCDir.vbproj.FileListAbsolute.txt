@@ -9,3 +9,7 @@ C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\ob
 C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.exe
 C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.xml
 C:\Users\Sonodop-Management\documents\visual studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.pdb
+C:\Users\Sonodop-Management\Documents\Visual Studio 2013\Projects\MCDir\MCDir\bin\Debug\MCDir.exe.manifest
+C:\Users\Sonodop-Management\Documents\Visual Studio 2013\Projects\MCDir\MCDir\bin\Debug\MCDir.application
+C:\Users\Sonodop-Management\Documents\Visual Studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.exe.manifest
+C:\Users\Sonodop-Management\Documents\Visual Studio 2013\Projects\MCDir\MCDir\obj\Debug\MCDir.application
