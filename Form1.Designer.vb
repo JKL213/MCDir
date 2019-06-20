@@ -26,11 +26,15 @@ Partial Class Form1
         Me.Label2 = New System.Windows.Forms.Label()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
+        Me.Button5 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
+        Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
         '
         'Label1
@@ -72,14 +76,14 @@ Partial Class Form1
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Backup"
         '
-        'GroupBox2
+        'Button2
         '
-        Me.GroupBox2.Location = New System.Drawing.Point(19, 113)
-        Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(200, 72)
-        Me.GroupBox2.TabIndex = 4
-        Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "Mod Storage"
+        Me.Button2.Location = New System.Drawing.Point(89, 20)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.TabIndex = 1
+        Me.Button2.Text = "Load"
+        Me.Button2.UseVisualStyleBackColor = True
         '
         'Button1
         '
@@ -90,14 +94,44 @@ Partial Class Form1
         Me.Button1.Text = "Create Backup"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'Button2
+        'GroupBox2
         '
-        Me.Button2.Location = New System.Drawing.Point(89, 20)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
-        Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Load"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.GroupBox2.Controls.Add(Me.Button5)
+        Me.GroupBox2.Controls.Add(Me.Button4)
+        Me.GroupBox2.Controls.Add(Me.Button3)
+        Me.GroupBox2.Location = New System.Drawing.Point(19, 113)
+        Me.GroupBox2.Name = "GroupBox2"
+        Me.GroupBox2.Size = New System.Drawing.Size(252, 81)
+        Me.GroupBox2.TabIndex = 4
+        Me.GroupBox2.TabStop = False
+        Me.GroupBox2.Text = "Mod Storage"
+        '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(7, 20)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.TabIndex = 0
+        Me.Button3.Text = "Verify"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(7, 50)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(75, 23)
+        Me.Button4.TabIndex = 1
+        Me.Button4.Text = "Load config"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
+        'Button5
+        '
+        Me.Button5.Location = New System.Drawing.Point(89, 20)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(75, 23)
+        Me.Button5.TabIndex = 2
+        Me.Button5.Text = "Save config"
+        Me.Button5.UseVisualStyleBackColor = True
         '
         'Form1
         '
@@ -113,6 +147,7 @@ Partial Class Form1
         Me.Text = "Form1"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox1.ResumeLayout(False)
+        Me.GroupBox2.ResumeLayout(False)
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -124,5 +159,8 @@ Partial Class Form1
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents GroupBox2 As System.Windows.Forms.GroupBox
+    Friend WithEvents Button5 As System.Windows.Forms.Button
+    Friend WithEvents Button4 As System.Windows.Forms.Button
+    Friend WithEvents Button3 As System.Windows.Forms.Button
 
 End Class
