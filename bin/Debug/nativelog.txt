@@ -1,0 +1,23 @@
+﻿Native Launcher Version: 432
+Operating System: Windows 7 Professional
+Application Data directory: C:\Users\Sonodop-Management\AppData\Roaming\.minecraft
+Executable Path: MinecraftLauncher.exe
+App Directory dir: C:\Program Files (x86)\Minecraft Launcher
+Game data directory: C:\Users\Sonodop-Management\AppData\Roaming\.minecraft
+Launcher dir: C:\Program Files (x86)\Minecraft Launcher\game
+Java dir: C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64
+TmpDir dir: C:\Users\SONODO~1\AppData\Local\Temp\MinecraftLauncher
+x64: 1
+Using configuration at path: C:\Users\Sonodop-Management\AppData\Roaming\.minecraft\launcher_profiles.json
+Deciding on update with strategy 2 and clientID 54
+Version of launcher-bootstrap is current, no action is necessary.
+Bootstrap is current
+Deciding on update with strategy 2 and clientID 54
+Version of launcher-core is current, no action is necessary.
+Bootstrap is current
+Deciding on update with strategy 2 and clientID 54
+Version of jre-x64 is current, no action is necessary.
+Bootstrap is current
+Starting C:\Program Files (x86)\Minecraft Launcher\game\launcher.dll with C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+Running launcher!
+Launcher ended with 0

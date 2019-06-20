@@ -116,6 +116,18 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trRed.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\traffic-light-green.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Traffic_light_red.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Traffic_light_yellow-766495.bmp" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

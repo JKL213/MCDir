@@ -6,18 +6,44 @@ MCDir
 </name>
 </assembly>
 <members>
-<member name="P:MCDir.My.Resources.Resources.ResourceManager">
+<member name="M:MCDir.Form1.CopyFiles(System.Int32)">
 	<summary>
-  Returns the cached ResourceManager instance used by this class.
+ This is a method that copies files in the chosen directory into the backup location
+ </summary>
+	<param name="count">This parameter is used to pick the correct folder directory when copying files over</param>
+	<remarks></remarks>
+</member><member name="M:MCDir.Form1.CopyDirectories(System.String,System.Int32,System.Int32)">
+	<summary>
+ This sub copies folder directories over to the backup location and uses recursion to call itself so that it looks at directories in itself and also calls CopyFiles to copy the files over in those directories
+ </summary>
+	<param name="Folder">This parameter holds the folder location</param>
+	<param name="count">This parameter holds the count used to add more directories into the hashtable and used so that it creates a unique ID for each folder</param>
+	<param name="FolderMarker">this parameter is used a marker so that it adds the correct folder directory path</param>
+	<remarks></remarks>
+</member><member name="P:MCDir.My.Resources.Resources.ResourceManager">
+	<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
 </summary>
 </member><member name="P:MCDir.My.Resources.Resources.Culture">
 	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member><member name="P:MCDir.My.Resources.Resources.tlg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MCDir.My.Resources.Resources.tlr">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MCDir.My.Resources.Resources.tly">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member><member name="T:MCDir.My.Resources.Resources">
 	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
 </summary>
 </member>
 </members>

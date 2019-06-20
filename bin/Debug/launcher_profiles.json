@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "channel": "release",
+    "locale": "de",
+    "showMenu": true
+  },
+  "launcherVersion": {
+    "name": "2.1.3674",
+    "format": 21,
+    "profilesFormat": 2
+  },
+  "clientToken": "04e6ab11ad189eb16dd0bf5733f35332",
+  "profiles": {
+    "99ab705a4028d2a2f9591ae91250687b": {
+      "type": "latest-release",
+      "lastUsed": "2019-06-07T19:44:52.221Z"
+    },
+    "c4f882cd511a4e55649646918fe3690c": {
+      "type": "latest-snapshot",
+      "lastUsed": "1970-01-01T00:00:00.000Z"
+    },
+    "Forge": {
+      "name": "Forge 1.12.2",
+      "type": "custom",
+      "created": "2019-03-31T15:45:26.071Z",
+      "lastUsed": "2019-06-15T19:39:57.735Z",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2836",
+      "gameDir": "C:\\Users\\Sonodop-Management\\Documents\\Minecraft\\MCVER1.7.10"
+    },
+    "forge": {
+      "name": "Forge 1.7.10",
+      "type": "custom",
+      "created": "2019-04-20T16:02:36.811Z",
+      "lastUsed": "2019-06-14T20:00:49.964Z",
+      "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10"
+    }
+  },
+  "analyticsFailcount": 0,
+  "selectedUser": {
+    "account": "e47ba5d52d450f0cbc3b9e4b1129d6c3",
+    "profile": "70d88b7c55984f28971eb259d2f97a01"
+  },
+  "analyticsToken": "e7f7180eaa6446ea076d250ace42be88",
+  "authenticationDatabase": {
+    "e47ba5d52d450f0cbc3b9e4b1129d6c3": {
+      "accessToken": "6c92066d49bf4d348a8089e4a4f5ddf2",
+      "username": "s_heyl@gmx.de",
+      "profiles": {
+        "70d88b7c55984f28971eb259d2f97a01": {
+          "displayName": "JKL213"
+        }
+      }
+    }
+  }
+}
